@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Hi, I'm Eightpigs.
+Hi, I'm Eightpigs(🐖🐖🐖🐖🐖🐖🐖🐖)
 
-Hobbies: Running, Cycling, Listening to music.
+My hobbies: Running, Cycling, Listening to music.
 
-Skills: Java, Golang, JavaScript, Dart, Swift, Lua, C# ...
+I can write a little code like Java, Golang, Swift, Kotlin, JavaScript, Dart, Swift, Lua ...
 
 Welcome to my Chinese blog: [eightpigs.io](https://eightpigs.io)
 
